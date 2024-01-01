@@ -1,0 +1,26 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.h-1 {
+  display: flex;
+}
+.span {
+  padding-right: 15px;
+}
+.p {
+  background-color: blueviolet;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 500;
+}
+.h-2 {
+  display: flex;
+  justify-content: space-around;
+}

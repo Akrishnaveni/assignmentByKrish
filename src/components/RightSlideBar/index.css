@@ -1,0 +1,10 @@
+.skills-list {
+  list-style: none;
+  display: flex;
+}
+.skill {
+  border: 2px solid #676e6b;
+  border-radius: 15px;
+  margin-left: 8px;
+  padding: 8px;
+}
